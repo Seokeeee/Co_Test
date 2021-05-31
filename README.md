@@ -1,4 +1,4 @@
-## Study : Beyond Coding Test**
+## Study : Beyond Coding Test
 
 #### From Study
 
