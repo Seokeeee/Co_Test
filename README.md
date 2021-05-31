@@ -9,5 +9,4 @@
 
 
 
-![1.1 복잡도]()
-<img width="80%" src="/images/1.1 복잡도.jpg"/>
+![1.1 복잡도]<img width="90%" src="/images/1.1 복잡도.jpg"/>
