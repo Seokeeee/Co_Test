@@ -9,4 +9,4 @@
 
 
 
-![1.1 복잡도]<img width="90%" src="/images/1.1 복잡도.jpg"/>
+<img width="90%" src="/images/1.1 복잡도.jpg"/>
